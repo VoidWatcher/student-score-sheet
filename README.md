@@ -98,3 +98,4 @@
 ## 常见问题
 
 - 如果你在使用readline-sync时在WebStorm看到`Error: The current environment doesn't support interactive reading from TTY`，可以参考这篇文章解决：https://stackoverflow.com/questions/41737166/how-can-i-use-readline-sync-npm-repository-with-webstorm
+- Windows环境下使用readline-sync打印中文乱码解决方案（英文）：https://www.bountysource.com/issues/38139181-readline-sync-cannot-prompt-in-chinese
