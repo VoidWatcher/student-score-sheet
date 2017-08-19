@@ -95,3 +95,6 @@
 
 - 任务分解：https://www.zybuluo.com/jtong/note/504192
 
+## 常见问题
+
+- 如果你在使用readline-sync时在WebStorm看到`Error: The current environment doesn't support interactive reading from TTY`，可以参考这篇文章解决：https://stackoverflow.com/questions/41737166/how-can-i-use-readline-sync-npm-repository-with-webstorm
